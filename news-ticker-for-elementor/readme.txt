@@ -2,7 +2,7 @@ News Ticker for Elementor
 Contributors: plugindevs
 Tags: elementor news ticker, elementor news slider, news slider, news ticker, ticker
 Requires at least: 5.0 or higher
-Tested up to: 6.4.3
+Tested up to: 6.7
 Stable tag: /trunk
 Requires PHP: 7.4
 License: GPLv2 or later
@@ -84,6 +84,11 @@ There is also a pro version of this plugin. You will get more features and advan
 
 
 == Changelog ==
+= 2.1.3 (11-05-24) =
+# Compatible with WordPress Latest Version
+# Compatible with Elementor Latest Version
+# Compatible with Elementor PRO Latest Version
+
 = 2.1.2 (02-16-24) =
 # Tweak CSS
 # Compatible with WordPress Latest Version
