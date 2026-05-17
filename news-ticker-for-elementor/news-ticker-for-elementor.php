@@ -5,13 +5,13 @@
  * Author: Plugin Devs
  * Author URI: https://plugin-devs.com/
  * Plugin URI: https://plugin-devs.com/product/news-ticker-for-elementor/
- * Version: 2.1.3
+ * Version: 2.1.4
  * License: GPLv2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: news-ticker-for-elementor
  * 
- * Elementor tested up to: 3.25.4
- * Elementor Pro tested up to: 3.25.2
+ * Elementor tested up to: 4.0.8
+ * Elementor Pro tested up to: 4.0.4
 */
 
 // Exit if accessed directly.
